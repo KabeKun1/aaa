@@ -1,0 +1,10 @@
+node_modules
+.next
+.env
+*.db
+*.db-journal
+public/uploads
+.git
+.gitignore
+README.md
+*.bat
